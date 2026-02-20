@@ -1,3 +1,7 @@
+### My content
+
+Here is my content!
+
 ---
-title: Welcome to my blog!
+title: Welcome to my content! 🤎🤍
 ---
